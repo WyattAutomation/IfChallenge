@@ -1,0 +1,47 @@
+{
+	"executive staff": [
+		{
+		"Title": "CEO",
+		"name": "Jeff",
+		"salary": "100000",
+		"employees": [
+	 		{
+	     	"name": "Dave",
+	     	"salary": "85000",
+	     	"employees":[	 
+	     			{
+				    	"name": "Jason",
+				    	"salary": "60000",
+				    	"employees":[]
+					},
+					{
+						"name": "Dan",
+						"salary": "60000",
+						"employees":[]
+					},
+					{
+				    	"name": "Rick",
+				    	"salary": "56000",
+				    	"employees":[]
+					},
+					{
+				    	"name": "Suzanne",
+				    	"salary": "61000",
+				    	"employees":[]
+					},
+					{
+				    	"name": "Andy",
+				    	"salary": "65000",
+				    	"employees":[]
+					}
+				]
+			},
+	 		{
+	     	"name": "Cory",
+	     	"salary": "65000",
+	     	"employees":[]
+	 		}
+		]
+		}
+]
+}
