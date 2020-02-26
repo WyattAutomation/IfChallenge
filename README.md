@@ -1,7 +1,7 @@
 # IfChallenge
 
 ### Requirements
--Make sure you have python 3 installed; version 3.6 will do:
+-Make sure you have python 3 installed. Version 3.6 will do, if running Debian/Ubuntu without python3 installed, run:
 ```
 sudo apt install python3.6
 ```
